@@ -27,7 +27,7 @@
     },
 
     "autoload": {
-        "psr-0": { "Vlabs\\MediaBundle": "" }
+        "psr-0": { "AppVentus\\VlabsMediaBundle": "" }
     },
 
     "target-dir": "Vlabs/MediaBundle"
